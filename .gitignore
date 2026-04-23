@@ -1,0 +1,48 @@
+# Dependências
+node_modules/
+.pnp
+.pnp.js
+
+# Produção
+dist/
+build/
+.cache/
+
+# Variáveis de ambiente (nunca commitar)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+logs/
+*.log
+
+# Editores / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# SO
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Scraper checkpoints (artefatos locais do tools/scrape-jftruck.js)
+tools/scraped.json
+tools/urls.json
+tools/failed.txt
+
+# Artefatos temporários
+*.local
+.tmp/
+
+# Backup/export do Horizons (não precisa versionar)
+horizons-export-*.zip

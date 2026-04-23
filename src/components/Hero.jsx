@@ -148,7 +148,7 @@ const Hero = () => {
               Tecnologia patenteada INPI · Certificação CONTRAN 589/2021
             </p>
             <Link
-              to="/produto/kit-hidraulico-giro-360"
+              to="/produto/kit-hidraulico-binotto-carbono-piso1"
               className="mt-5 inline-flex items-center gap-2 text-sm font-semibold text-[#FFD700] hover:text-white transition-colors group"
             >
               Ver especificações

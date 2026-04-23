@@ -46,3 +46,6 @@ tools/failed.txt
 
 # Backup/export do Horizons (não precisa versionar)
 horizons-export-*.zip
+
+# Pacotes de deploy (gerados sob demanda, não versionar)
+jf-hydraulic-*.zip

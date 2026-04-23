@@ -1158,21 +1158,29 @@ export const productsData = [
   },
   {
     id: 'kit-hidraulico-binotto-carbono-piso1',
-    name: 'Kit hidráulico Binotto carbono piso',
+    name: 'Kit Hidráulico Giro 360° - JF Hydraulic',
     category: 'Kit Hidráulico',
     price: 'Consulte',
-    description: 'Kit hidráulico Binotto carbono piso',
-    fullDescription: 'Kit hidráulico Binotto carbono piso',
+    description: 'Sistema hidráulico completo com giro de 360° para máxima versatilidade e segurança',
+    fullDescription: 'O Kit Hidráulico Giro 360° JF Hydraulic é a solução mais avançada para caminhões basculantes. Com tecnologia patenteada INPI e certificação CONTRAN 589/2021, oferece rotação completa da caçamba para descargas em qualquer direção. Sistema completo incluindo bomba hidráulica de alta pressão, válvulas de segurança, mangueiras reforçadas e reservatório em aço inox. Ideal para operações que exigem máxima flexibilidade e segurança.',
     images: [
       '/products/kit-hidraulico-binotto-carbono-piso1/img-1.webp',
       '/products/kit-hidraulico-binotto-carbono-piso1/img-2.webp',
       '/products/kit-hidraulico-binotto-carbono-piso1/img-3.webp',
     ],
     specifications: [
+      { label: 'Giro', value: '360° completo' },
+      { label: 'Certificação', value: 'CONTRAN 589/2021' },
+      { label: 'Patente', value: 'INPI registrada' },
+      { label: 'Pressão de trabalho', value: 'Até 250 bar' },
+      { label: 'Material do reservatório', value: 'Aço inoxidável' },
+      { label: 'Garantia', value: '12 meses' },
+      { label: 'Aplicação', value: 'Caminhões basculantes' },
+      { label: 'Instalação', value: 'Inclui manual técnico' },
     ],
     relatedProductIds: [
     ],
-    whatsappMessage: 'Olá! Tenho interesse no produto Kit hidráulico Binotto carbono piso. Pode me passar mais informações?'
+    whatsappMessage: 'Olá! Gostaria de saber mais sobre o Kit Hidráulico Giro 360° JF Hydraulic. Pode me enviar informações sobre preço e disponibilidade?'
   },
   {
     id: 'prolongador-t-scania-g33-2022-c1',
